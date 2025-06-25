@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '欢迎光临',
+  HEO_HERO_TITLE_2: '与祝你开心',
+  HEO_HERO_TITLE_3: 'WANGCY.MY',
+  HEO_HERO_TITLE_4: '进来看看',
+  HEO_HERO_TITLE_5: '分享生活与喜悦',
+  HEO_HERO_TITLE_LINK: 'https://wangcy.my',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -39,13 +39,13 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '你好！这是我的开场白',
+    '🔍 既然你诚心诚意的发问了',
+    '🤝 我就大发慈悲的告诉你',
+    '🏃 为了防止世界被破坏',
+    '🏠 为了守护世界的和平',
+    '🤖️ 贯彻爱与真实的邪恶,
+    '🧱 可爱又迷人的WANGCY'
   ],
 
   // 个人资料底部按钮
